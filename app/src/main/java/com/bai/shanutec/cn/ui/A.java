@@ -8,4 +8,7 @@ package com.bai.shanutec.cn.ui;
  */
 
 public class A {
+    public void  sya(){
+
+    }
 }
